@@ -16,3 +16,4 @@ theDF$x[3]
 
 # Editing names
 names(theDF)<-c("Popularity",team strength, "Sport")
+mean (y)
